@@ -14,7 +14,7 @@ body {
 }
 
 
-header nav ul {
+.navbar {
     display: flex;
     justify-content: center;
     list-style: none;
